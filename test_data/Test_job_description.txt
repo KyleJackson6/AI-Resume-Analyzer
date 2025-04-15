@@ -1,0 +1,54 @@
+Full job description
+About the Position
+
+Our community specialist clinic in Ontario is seeking an experienced AI Specialist with a strong foundation in digital health solutions to drive innovation in patient care, education, and research. The ideal candidate will leverage AI and machine learning technologies in alignment with provincially-endorsed tools such as certified Canadian EMRs, HRM, OLIS, PrescribeIT, and eConsult, and standards like HL7 and FHIR, etc. This role requires a deep understanding of the Ontario healthcare ecosystem and its digital infrastructure.
+
+Key Responsibilities
+
+Clinical Service Efficiency
+
+Develop AI-driven models integrated with certified EMRs to optimize patient scheduling, reduce wait times, and enhance workflow automation
+Assisted in developing workaround for business intelligence using a real-time predictive analytics and resource forecasting with EMR data or other ontario provincial solutions
+Automate patient triage pathways using machine learning algorithms and clinical data exchange via HL7 and FHIR standards
+Work with clinicians to identify workflow inefficiencies and design digital solutions that align with Ontario's digital health framework.
+Education
+
+Design AI-powered simulation tools and interactive platforms to support clinician education and just-in-time learning.
+Lead training programs focused on the application of AI within digital health tools
+Support knowledge translation by embedding AI-enabled clinical decision support into daily EMR use, promoting evidence-based practice.
+Research
+
+Lead and support clinical research initiatives involving AI and data-driven care models using anonymized EMR and HRM data.
+Collaborate with interdisciplinary teams to evaluate AI interventions within real-world specialist care settings.
+Develop and validate machine learning models that align with provincial data governance and interoperability frameworks.
+Contribute to grant proposals and publish findings on AI in digital health, ensuring compliance with ethical and PHIPA requirements.
+Qualifications
+
+Master’s or PhD in Computer Science, Health Informatics, Biomedical Engineering, or a related discipline
+Minimum 3 years of experience applying AI/ML in healthcare, ideally within the Ontario healthcare landscape
+Proficiency in Python, R, or equivalent for machine learning and data analytics
+Experience working with EMRs, healthcare data standards (HL7, FHIR), and tools such as OLIS, HRM, or PrescribeIT
+Strong understanding of Ontario's privacy legislation (PHIPA)
+Excellent communication skills for engaging both technical and clinical audiences
+Preferred
+
+Previous experience in a specialty care clinic or Ontario health system setting
+Familiarity with EMR-integrated AI tools, or digital health assessment methodologies
+Track record of peer-reviewed publications in health AI
+Experience with NLP in medical documentation and imaging analytics
+Job Types: Full-time, Part-time, Freelance
+
+Additional pay:
+
+Bonus pay
+Benefits:
+
+Discounted or free food
+Flexible schedule
+On-site parking
+Flexible language requirement:
+
+French not required
+Schedule:
+
+Monday to Friday
