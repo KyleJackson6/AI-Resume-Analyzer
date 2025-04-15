@@ -5,6 +5,15 @@ import os
 import nltk
 from io import StringIO
 import base64
+import spacy
+import subprocess
+import sys
+
+try:
+    nlp = spacy.load("en_core_web_sm")
+except OSError:
+    subprocess.run([sys.executable, "-m", "spacy", "download", "en_core_web_sm"])
+    nlp = spacy.load("en_core_web_sm")
 
 nltk.download("punkt")
 nltk.download("punkt_tab")
