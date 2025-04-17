@@ -1,9 +1,17 @@
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import spacy
+import subprocess
+import sys
+
+# Load or download the spaCy model
+try:
+    nlp = spacy.load("en_core_web_sm")
+except OSError:
+    subprocess.run([sys.executable, "-m", "spacy", "download", "en_core_web_sm"])
+    nlp = spacy.load("en_core_web_sm")
 
 model = SentenceTransformer("all-mpnet-base-v2")
-nlp = spacy.load("en_core_web_sm")
 
 def extract_phrases(text: str):
     doc = nlp(text.lower())
