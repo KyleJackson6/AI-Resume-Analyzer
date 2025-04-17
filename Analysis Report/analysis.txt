@@ -1,0 +1,42 @@
+### Match Analysis
+This resume received a match score of **43.33%** based on a comparison of extracted skills and experience sections.
+
+**Matched Skills:**
+- ai and data-driven care models
+- ai-driven models
+- ai-enabled clinical decision support
+- an experienced ai specialist
+- certified canadian emrs
+- certified emrs
+- digital solutions
+- education
+design ai-powered simulation tools
+- emr-integrated ai tools
+- interactive platforms
+- machine learning algorithms
+- machine learning and data analytics
+experience
+- machine learning models
+
+**Missing Skills from Job Description:**
+- anonymized emr
+- clinical data exchange
+- daily emr use
+- digital health
+- digital health assessment methodologies
+track record
+- digital health solutions
+- digital health tools
+- emr data
+- healthcare data standards
+- hl7 and fhir standards
+work
+- hrm data
+- its digital infrastructure
+- lead training programs
+- ontario's digital health framework
+- provincial data governance
+- provincially-endorsed tools
+- wait times
+
+This resume shows some relevant skills, but also reveals key areas that could be strengthened.
